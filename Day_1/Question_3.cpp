@@ -12,4 +12,6 @@ int main(){
     }
 
     cout << "The Factorial of Given Number is = " << factorial <<endl;
+
+    return 0;
 }

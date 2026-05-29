@@ -8,11 +8,10 @@ int main(){
 
     int count = 0;
     while(n>0){
-        int rem = n%10;
-        if(rem){
-            count++;
-        }
+        count++;
         n=n/10;
     }
     cout << count << endl;
+
+    return 0;
 }

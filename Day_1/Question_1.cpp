@@ -14,4 +14,6 @@ int main ()
     }
 
     cout << "The Sum is "<< sum << endl;
+
+    return 0;
 }
